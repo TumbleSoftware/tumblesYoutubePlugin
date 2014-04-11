@@ -1,0 +1,38 @@
+{
+    "name": "TumblesYoutubePlugin",
+    "title": "Tumbles Youtube Plugin",
+    "description": "jQuery Plugin which grabs Youtube video data using the v2 youtube data API. Displays the results using HTML templates loaded by AJAX.",
+    "keywords": [
+        "Youtube",
+        "Data",
+        "API",
+        "Templates",
+        "HTML"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "TumbleSoftware",
+        "url": "https://github.com/jquery/jquery-color/blob/2.1.2/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "LTumbleweed",
+            "email": "ltumbleweed@virginmedia.com",
+            "url": "http://www.tumblesoftware.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    
+    "homepage": "https://www.tumblesoftware.com",
+    "docs": "https://github.com/TumbleSoftware/tumblesYoutubePlugin",
+    "demo":"http://www.tumbleblogs.com/examples/ajaxtemplate/",
+    "download": "http://tumbleblogs.com/youtube-jquery-template-plugin/",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
